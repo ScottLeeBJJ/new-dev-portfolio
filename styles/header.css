@@ -1,4 +1,22 @@
+body {
+    overflow-x: hidden;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+    background-color: skyblue;
+    margin: -10px;
+}
+
 .portfolio-photo img {
     height: 200px;
     border-radius: 50%;
+}
+
+.title {
+    
 }
